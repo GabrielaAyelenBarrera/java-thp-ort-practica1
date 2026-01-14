@@ -1,4 +1,4 @@
-# Práctica 1 – Ciclismo 🏁
+# Módulo 1 – Ciclismo 🏁
 ## Taller de Herramientas de Programación (THP) – ORT Argentina
 
 Este repositorio contiene la resolución del **Primer Parcial** de la materia **Taller de Herramientas de Programación**, desarrollada en **Java**, aplicando **lógica estructurada**, validaciones y corrección de errores según la consigna.
