@@ -34,16 +34,20 @@ El programa calcula estadísticas como:
 A continuación se presentan los **diagramas Nassi–Shneiderman** que representan el flujo lógico del programa, utilizados como base para la implementación en Java.
 
 ### 🔹 Flujo principal – Parte 1
-![NS Parte 1](docs/ns/ns-ciclismo-parte-1.jpg)
+![ns-java-parte-1](https://github.com/user-attachments/assets/57624b52-873a-4e90-a044-f30eb4a61536)
+
 
 ### 🔹 Flujo principal – Parte 2
-![NS Parte 2](docs/ns/ns-ciclismo-parte-2.jpg)
+![ns-java-parte-2](https://github.com/user-attachments/assets/efd0f4c4-5e99-4f7d-a9d8-051a1b5218b0)
+
 
 ### 🔹 Flujo principal – Parte 3
-![NS Parte 3](docs/ns/ns-ciclismo-parte-3.jpg)
+![ns-java-parte-3](https://github.com/user-attachments/assets/c7222712-e67d-4daf-a002-351b03423e20)
+
 
 ### 🔹 Flujo principal – Parte 4
-![NS Parte 4](docs/ns/ns-ciclismo-parte-4.jpg)
+![ns-java-parte-4](https://github.com/user-attachments/assets/27b9a941-03d2-436e-a3c0-83ed984715a6)
+
 
 ---
 
