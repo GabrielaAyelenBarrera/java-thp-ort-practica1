@@ -97,14 +97,10 @@ La solución fue implementada en Java respetando:
 A continuación se presenta el diagrama **Nassi–Shneiderman**, utilizados como base para el diseño lógico y la posterior implementación del programa en Java.
 
 ### 🔹 Flujo principal del programa
-![ns-java-parte-1](https://github.com/user-attachments/assets/57624b52-873a-4e90-a044-f30eb4a61536)
-
-![ns-java-parte-2](https://github.com/user-attachments/assets/efd0f4c4-5e99-4f7d-a9d8-051a1b5218b0)
-
-![ns-java-parte-3](https://github.com/user-attachments/assets/c7222712-e67d-4daf-a002-351b03423e20)
-
-![ns-java-parte-4](https://github.com/user-attachments/assets/27b9a941-03d2-436e-a3c0-83ed984715a6)
-
+<img width="1130" height="721" alt="image" src="https://github.com/user-attachments/assets/7526d7d3-2f0f-4eef-a265-5c1a4523f5f1" />
+<img width="1126" height="722" alt="image" src="https://github.com/user-attachments/assets/0427ba70-a0df-4ebe-b22b-4fe8a2735af9" />
+<img width="1123" height="726" alt="image" src="https://github.com/user-attachments/assets/6c68be64-8bdd-48ac-bcf8-4de455a2f8a7" />
+<img width="1130" height="334" alt="image" src="https://github.com/user-attachments/assets/0668ee18-9ef4-42bc-8f04-b9d4dc748639" />
 
 ---
 
